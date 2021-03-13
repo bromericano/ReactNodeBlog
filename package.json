@@ -1,0 +1,22 @@
+{
+  "name": "blogproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bromericano/ReactNodeBlog.git"
+  },
+  "author": "Luke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bromericano/ReactNodeBlog/issues"
+  },
+  "homepage": "https://github.com/bromericano/ReactNodeBlog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
